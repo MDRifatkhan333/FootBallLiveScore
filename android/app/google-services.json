@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "456730915217",
+    "project_id": "module14ostad",
+    "storage_bucket": "module14ostad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456730915217:android:08f2caa9bfa842b93faa30",
+        "android_client_info": {
+          "package_name": "com.example.ostad_fire_base_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456730915217-qe3j94lt4m4ahc5dqf6bfmj462depf27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ostad_fire_base_test",
+            "certificate_hash": "87c93c3fb7ad3bbd47e9f6590d572da95e72f4ff"
+          }
+        },
+        {
+          "client_id": "456730915217-27krliov48dfi48v38hbtojqv42ilfgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdsgsQwmyks-IFGIFA2hJKMWE8nTCTmd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456730915217-27krliov48dfi48v38hbtojqv42ilfgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
